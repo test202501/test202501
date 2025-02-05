@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @test202501
-- 👀 I’m interested in Excel, VBA, SQL and of course Python :)
-- 🌱 I’m currently learning GIT, GITHub commands and Python.
-- 💞️ I’m looking to collaborate on Python.
+- 👀 I’m interested in Excel, VBA, SQL and lately I have expanded my interests to data science and Python.
+- 🌱 I’m currently learning Python on midadvanced level in context with data science and processing large set of data.
+- 💞️ I’m looking to collaborate with programming on Python - together we can learn more.
 - 😄 Pronouns: Mr
 
 <!---
